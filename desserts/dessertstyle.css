@@ -1,0 +1,147 @@
+body{background-image: url('../images/background.png');
+background-attachment: fixed;
+background-repeat:x% y%;
+margin: 0 auto;
+width:1366px;
+	}
+
+#wrapper{
+margin: 0 auto;
+width: 1100px;
+}
+#menu h1{font-family: Arial, Helvetica, sans-serif;
+	margin: 0px auto;
+	font-size:14.9px;
+	padding:15px;
+text-align:left;
+color:#ffffff;
+	}
+#menu a:hover {color:#ffffff;
+line-height: 180%;
+	padding:20px;
+	border: none;
+	text-decoration: none;}
+#menu a:link{color: #000000;
+	text-decoration: none;}
+	#menu a:active{color: #ffffff;
+	text-decoration: none;}
+
+
+#menu{
+width: 1100px;
+	margin: 0px auto;
+	
+-moz-box-shadow: 0px 3px 4px #aaa;
+	-webkit-box-shadow: 0px 3px 4px #aaa;
+	box-shadow: 0px 3px 4px #aaa;
+	background-image: url('../images/head.jpg');
+	background-repeat:no-repeat;
+	height: 90px;
+	text-align:center;
+	}
+	
+
+#headerimg{
+width:1100px;
+height:100px;
+position:absolute;
+}	
+	
+#leftnav a:visited{color:#3f34ff;
+text-decoration: none;}
+	#leftnav a:link{color:#ff356f;
+	text-decoration: none;}
+	#leftnav a:hover {color:#ffffff;
+line-height: 180%;
+	text-decoration: underline;}
+
+#phflag{
+width:250px;
+height:255px;
+position:absolute;
+float:left;
+margin-top:75px;
+}
+#ads{
+width:250px;
+height:254px;
+position:absolute;
+float:left;
+margin-top:270px;	
+}
+#image{
+width:820px;
+height:350px;
+margin-left:280.5px;
+position:absolute;
+float:left;
+margin-top:75px;
+}
+
+#leftnav{
+color:#000000;
+padding:11px;
+text-align:left;
+font-size:19px;
+text-align:center;
+float:left;
+margin-top:550px;
+position:absolute;
+width:250px;
+height:770px;
+background-position:center;
+background-image: url('../images/leftwall.jpg');
+}
+
+#bodycenter h1{
+font-size:21px;
+text-align:center;
+}
+
+
+#bodycenter li,ol, h2{
+font-size: 19px;
+padding:1.5px;
+margin-right:40px;
+margin-left:70px;
+color:#000000;;}
+
+#bodycenter{
+text-align:justify;
+border:1px solid black;
+	position:absolute;
+	margin-left:280px;
+	margin-top:375px;
+width:820px;
+height:1045px;
+background: url('../images/paper.png') no-repeat center top;
+background-repeat:repeat-x;
+}
+
+/*footer*/
+	#footer {
+	position:absolute;
+	margin-top:1400px;
+	width: 1103px;
+	height:40px;
+	background-image:url('../images/foot.jpg');
+	background-repeat:repeat-x;
+}
+#footer a:link{
+color: #FFFFFF;
+}
+#footer a:hover{
+color:#000000;
+}
+#footer h1 {
+	margin: 0px auto;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	font-size: 11px;
+	text-align:center;
+	color: #FFFFFF;
+}
+
+
+
+
